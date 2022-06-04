@@ -2,7 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/*Prints a random number and states if Positive, Nagative or Zero*/
+/** Main: Prints a random number and states
+ * if Positive, Nagative or Zero
+ * Return : Always zero
+ */
 
 int main(void)
 {
@@ -21,9 +24,9 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	else 
+	else
 	{
-		printf("%d is zero\n",n);
+		printf("%d is zero\n", n);
 	}
-	return(0);
+	return (0);
 }
