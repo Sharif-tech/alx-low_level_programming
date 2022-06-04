@@ -1,3 +1,5 @@
+/* My c program */
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -8,6 +10,7 @@
  * Return: Always returns Zero
  */
 
+/* main.c */
 int main(void)
 {
 	int n;
