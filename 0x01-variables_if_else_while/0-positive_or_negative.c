@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- * Prints a random number and states if:
+ * Main: Prints a random number and states if:
  * Positive, Nagative or Zero
+ * Return: Always returns Zero
  */
 
 int main(void)
@@ -28,5 +29,6 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
+
 	return (0);
 }
