@@ -3,12 +3,12 @@
 #include <stdio.h>
 
 /**
- * Main - The entry point of the program
+ * main - The entry point of the program
  *
- * Description - Prints a random number and states if:
+ * description - Prints a random number and states if:
  * Positive, Nagative or Zero
- * 
- * Return - Always returns Zero
+ *
+ * return - Always returns 0
  */
 
 int main(void)
