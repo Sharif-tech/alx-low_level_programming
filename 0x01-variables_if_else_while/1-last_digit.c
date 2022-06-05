@@ -1,14 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 #include <stdio.h>
 
 /**
- * Assigning a random number to a variable
+ * main - program starts here
+ * Description - Assigning a random number to a variable
  * determine if it is less than or greater than six
  * if greater, print: n is greater than five
  * if less, print: n is less than six and not zero
- * Return: zero
+ * Result - Return zero
  */
 
 int main(void)
@@ -17,7 +17,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	
+
 	/* Conditions for n */
 
 	if ((n % 10) > 5)
