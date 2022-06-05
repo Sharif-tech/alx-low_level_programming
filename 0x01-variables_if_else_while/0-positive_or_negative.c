@@ -3,12 +3,14 @@
 #include <stdio.h>
 
 /**
- * Main: Prints a random number and states if:
+ * Main - The entry point of the program
+ *
+ * Description - Prints a random number and states if:
  * Positive, Nagative or Zero
- * Return: Always returns Zero
+ * 
+ * Return - Always returns Zero
  */
 
-/* main.c */
 int main(void)
 {
 	int n;
