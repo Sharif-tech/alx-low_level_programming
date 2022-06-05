@@ -9,7 +9,7 @@
  *
  */
 
-int main(voind)
+int main(void)
 {
 	char letter;
 	
