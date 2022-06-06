@@ -1,21 +1,21 @@
 #include <stdio.h>
 
 /**
- * Main - entry point of program
+ * main - entry point of program
  *
- * Description - prints 0 to 9 with new line
+ * description - prints 0 to 9 with new line
  *
- * Return - returns zero
+ * return - returns zero
  */
 
 int main(void)
 
 {
 	int num;
-	
+
 	for (num = 0; num < 10; num++)
-		printf("%d\n", num);
-	
+		printf("%d", num);
+
 	return (0);
 
 }
