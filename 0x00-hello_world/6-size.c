@@ -3,7 +3,9 @@
 /**
  * main - Entry point
  *
- * REturn: Always 0 (Success)
+ * description - prints size of datatypes
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
