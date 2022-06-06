@@ -5,7 +5,7 @@
  *
  * description - pints the alphabet in lowercase, followed by a new line
  *
- * return - returns zero
+ * Return: Always 0 (Success)
  *
  */
 

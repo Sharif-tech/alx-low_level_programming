@@ -8,7 +8,7 @@
  * determine if it is less than or greater than six
  * if greater, print: n is greater than five
  * if less, print: n is less than six and not zero
- * Result - Return zero
+ * Return: Always 0 (Success)
  */
 
 int main(void)

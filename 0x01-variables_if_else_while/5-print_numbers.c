@@ -5,7 +5,7 @@
  *
  * description - prints 0 to 9 with new line
  *
- * return - returns zero
+ * Return: Always 0 (Success)
  */
 
 int main(void)

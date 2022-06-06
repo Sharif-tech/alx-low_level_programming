@@ -5,9 +5,7 @@
  *
  * description - prints lower and upercase letters
  *
- * return - always returns 0
- *
- * results - returns zero
+ * Return: Always 0 (Success)
  *
  */
 

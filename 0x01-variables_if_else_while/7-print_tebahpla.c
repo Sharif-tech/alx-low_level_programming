@@ -6,7 +6,7 @@
  * description - Prints the lowercase alphabet in reverse,
  * followed by a new line
  *
- * return - returns zero
+ * Return: Always 0 (Success)
  */
 
 int main(void)

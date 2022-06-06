@@ -5,7 +5,7 @@
  *
  * description - prints alphabets in lowercase
  *
- * return - always returns zero(0)
+ * Return: Always 0 (Success)
  *
  */
 
